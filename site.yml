@@ -1,0 +1,4 @@
+---
+- name: Some testing
+
+- import_playbook: mynamespace.mycol.runme
