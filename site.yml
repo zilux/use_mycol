@@ -1,4 +1,10 @@
 ---
 - name: Some testing
+  hosts: all
+
+  tasks:
+    - name: xxx
+      debug:
+        msg:  okidoki
 
 - import_playbook: mynamespace.mycol.runme
