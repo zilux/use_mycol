@@ -7,4 +7,5 @@
       debug:
         msg:  okidoki
 
-- import_playbook: mynamespace.mycol.runme
+- name:  import          
+  import_playbook: mynamespace.mycol.runme
