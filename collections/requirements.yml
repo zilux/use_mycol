@@ -1,4 +1,4 @@
 ---
 collections:
-    - name: git@github.com:zilux/newcoll.git
-      type: git
+  - name: git@github.com:zilux/newcoll.git
+    type: git
